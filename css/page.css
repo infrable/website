@@ -1,3 +1,5 @@
+@import url('https://use.typekit.net/pfa8cxp.css');
+
 html, body {
   width: 100%;
   height: 100%;
@@ -12,8 +14,6 @@ body {
   justify-content: center;
 }
 
-@import url("https://use.typekit.net/pfa8cxp.css");
-
 body {
   font-family: 'canada-type-gibson', 'gibson', sans-serif;
   font-style: normal;
@@ -27,6 +27,10 @@ body {
 .infrable-logo {
   text-align: center;
   justify-content: center;
+}
+
+.infrable-img {
+  width: 300px;
 }
 
 .headline {
